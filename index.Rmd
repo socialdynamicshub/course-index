@@ -1,0 +1,28 @@
+---
+title: "Index"
+description: |
+  An open course on modeling complex social dynamics.
+author:
+  - name: André Calero Valdez
+    url: https://example.com
+    affiliation: Affiliation
+    affiliation_url: https://example.com/affiliation
+  - name: Johannes Nakayama
+    url: https://example.com
+    affiliation: Affiliation
+    affiliation_url: https://example.com/affiliation
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Course Modules
+
+List modules here
+
+
+
+
